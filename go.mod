@@ -13,7 +13,7 @@ require (
 	golang.org/x/mod v0.26.0
 	golang.org/x/text v0.27.0
 	golang.org/x/tools v0.35.0
-	helm.sh/helm/v3 v3.18.4
+	helm.sh/helm/v3 v3.18.5
 	sigs.k8s.io/yaml v1.6.0
 )
 
